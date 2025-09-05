@@ -188,3 +188,11 @@ else:
         st.success(f"Logged in as {st.session_state.user['email']}")
     else:
         st.info("Use the sidebar to register, login, and check in.")
+
+    st.markdown("---")
+    st.markdown("### 📌 Project Details")
+    st.markdown("""
+    **Project Owner**: Aminu Muhammad  
+    **School ID**: CSC/20U/4093  
+    **School Year**: 2024/2025  
+    """)
