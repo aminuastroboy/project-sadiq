@@ -192,7 +192,7 @@ else:
     st.markdown("---")
     st.markdown("### 📌 Project Details")
     st.markdown("""
-    **Project Owner**: Sadiq  
-    **School ID**: CSC/20U/4093  
+    **Project Owner**: Abubakar Sadiq Sani  
+    **School ID**: CSC/22D/4441 | CSC?21D/3172  
     **School Year**: 2024/2025  
     """)
